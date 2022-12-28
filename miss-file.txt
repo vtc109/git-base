@@ -9,4 +9,4 @@ Sau đó checkout -b "sub-main"
 Push thẳng lên remote của sub-main 
 git push origin sub-main 
 
-checking git remote add 
+
