@@ -20,3 +20,6 @@ git rebase sub-main
 #View commit history only on main branch
 (ex: sub-main and main)
 git log submain..main
+
+
+#Rebase is complicated
