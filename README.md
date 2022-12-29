@@ -11,3 +11,8 @@ git checkout -b <branch-name> <sha>
 #Rebase (change root)
 (in sub-main)
 git rebase main
+
+#Merge rebase branch
+(after git rebase main for sub-main)
+(int main branch)
+git rebase sub-main
