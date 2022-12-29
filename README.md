@@ -7,3 +7,7 @@ git branch -d <branch-name>
 
 #Recover deleted branch
 git checkout -b <branch-name> <sha>
+
+#Rebase (change root)
+(in sub-main)
+git rebase main
