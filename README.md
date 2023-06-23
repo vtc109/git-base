@@ -23,3 +23,6 @@ git log submain..main
 
 
 #Rebase is complicated
+
+#Add thêm file vào commit hoặc sửa commit msg
+git commit -m "Message đúng" --amend
