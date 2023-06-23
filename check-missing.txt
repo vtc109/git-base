@@ -1,3 +1,0 @@
-This text will appeared when this missing file be pushed
-
-Line 1 of missing file 

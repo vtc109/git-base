@@ -1,3 +1,0 @@
-Line 1 of merge file
-
-Line 2 of merge file
