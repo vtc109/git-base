@@ -6,4 +6,5 @@ console.log("add thiếu file, commit khi có lôi ");
 // write a code calculate sum of a and b
 console.log("commit in branch 1");
 console.log("commit in branch 1-1");
-console.log("before merge branch-1 to branch-1-1")
+console.log("before merge branch-1 to branch-1-1");
+console.log("remerge from branch-1");
