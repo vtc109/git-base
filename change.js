@@ -3,5 +3,6 @@ console.log("file này bị thiếu khi commit ");
 console.log("file này bị thiếu khi commit ");
 console.log("add thiếu file, commit khi có lôi ");
 // changing missing files
-// write a code calculate sum of a and b 
+// write a code calculate sum of a and b
 console.log("commit in branch 1");
+console.log("commit in branch 1-1");
