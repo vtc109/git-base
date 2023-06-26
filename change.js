@@ -8,4 +8,5 @@ console.log("commit in branch 1");
 console.log("commit in branch 1-1");
 console.log("before merge branch-1 to branch-1-1");
 console.log("change before commit in branch-1");
+console.log("change before commit in branch-1 part 2");
 
